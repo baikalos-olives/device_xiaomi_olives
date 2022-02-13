@@ -98,5 +98,9 @@
 
     <!-- Wheter device supports an gaming mode profiles -->
     <bool name="config_gamingmode_performance">true</bool>
-    
+
+    <!-- Statusbar Left-Right padding defaults -->
+    <integer name="config_statusbarPaddingStartDefault">5</integer>
+    <integer name="config_statusbarPaddingEndDefault">5</integer>
+
 </resources>
